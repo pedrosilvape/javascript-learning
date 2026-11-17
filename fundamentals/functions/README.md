@@ -93,8 +93,6 @@ Funções utilizadas para executar tarefas específicas, como agendar ou repetir
 
 ### 6. This
 
-### 6. This
-
 A palavra-chave `this` faz referência ao contexto de execução da função. Seu comportamento varia conforme a forma como a função é declarada.
 
 **Função tradicional (Normal Function):**
@@ -142,12 +140,3 @@ O módulo `readline` permite receber informações digitadas pelo usuário diret
 - `createInterface()`: cria uma interface de entrada e saída.
 - `question()`: apresenta uma pergunta e recebe a resposta do usuário por meio de um callback.
 - `close()`: encerra a interface de leitura.
-
-## Objetivos
-
-- Compreender a declaração e a execução de funções.
-- Diferenciar parâmetros e argumentos.
-- Utilizar `return` para retornar valores.
-- Conhecer diferentes sintaxes de Arrow Functions.
-- Compreender o funcionamento de callbacks e Higher-Order Functions.
-- Utilizar funções globais e receber dados pelo terminal com Node.js.
